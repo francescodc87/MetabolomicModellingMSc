@@ -40,7 +40,7 @@ Executable file available in dist folder.
 1. Install latest version of miniconda.
 2. Run the following to initialise miniconda.
 ```
-    source anaconda3/bin/activate
+    source miniconda3/bin/activate
     conda init zsh
     conda init
 ```
